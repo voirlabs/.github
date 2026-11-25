@@ -23,6 +23,8 @@ We turn ideas into websites, apps and AI products. Thoughtful design, serious en
   </tr>
 </table>
 
+<br>
+
 ### <picture><img src="assets/dot.svg" width="8" height="14" alt=""></picture> The way we work
 
 <table>
@@ -34,6 +36,8 @@ We turn ideas into websites, apps and AI products. Thoughtful design, serious en
 </table>
 
 We choose the stack around your project, your existing systems and what your team can maintain: OpenAI, ElevenLabs, LangChain and n8n for AI; React, Next.js, Node.js and PostgreSQL for applications; Solidity, Rust, Anchor and Cairo on-chain.
+
+<br>
 
 ### <picture><img src="assets/dot.svg" width="8" height="14" alt=""></picture> From the studio
 
@@ -58,6 +62,8 @@ Things we build in the open. All MIT licensed.
     </td>
   </tr>
 </table>
+
+<br>
 
 ### <picture><img src="assets/dot.svg" width="8" height="14" alt=""></picture> Just for fun
 
